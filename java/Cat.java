@@ -1,4 +1,4 @@
-public class Cat extends Animal {
+public class Cat extends Animal implements Mew {
 
     public void eat() {
         System.out.println("Feed Cat");
