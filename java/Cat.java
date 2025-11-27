@@ -5,6 +5,6 @@ public class Cat extends Animal implements Mew {
     }
 
     public void meow() {
-         // ... 
+        System.out.println("Meow!");
     }
 }
